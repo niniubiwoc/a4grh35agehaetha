@@ -1,0 +1,7 @@
+{
+    "name": "azure-subscription",
+    "description": "test azure accounts",
+    "keywords": ["azure"],
+    "repository": "https://github.com/niniubiwoc/azure-subscription",
+    "stack": "container"
+}
